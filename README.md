@@ -1,0 +1,2 @@
+# Linked-Lists-Stacks-and-Queues-in-Java
+Built three classes that implement a List, a Stack, and a Queue using Nodes and references rather than arrays. The Stack and Queue inherit from the List (a linked list) class, and so these subclasses are rather short. Built a simple LinkedListException class that is thrown in place of RuntimeExceptions whenever exceptional or error situations occur. Utilizes inheritance heirarchy.
